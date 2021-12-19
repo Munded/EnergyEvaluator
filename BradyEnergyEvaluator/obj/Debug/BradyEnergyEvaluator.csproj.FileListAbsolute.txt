@@ -1,0 +1,13 @@
+C:\Users\mund_\source\repos\BradyEnergyEvaluator\BradyEnergyEvaluator\bin\Debug\BradyEnergyEvaluator.exe.config
+C:\Users\mund_\source\repos\BradyEnergyEvaluator\BradyEnergyEvaluator\bin\Debug\BradyEnergyEvaluator.exe
+C:\Users\mund_\source\repos\BradyEnergyEvaluator\BradyEnergyEvaluator\bin\Debug\BradyEnergyEvaluator.pdb
+C:\Users\mund_\source\repos\BradyEnergyEvaluator\BradyEnergyEvaluator\obj\Debug\BradyEnergyEvaluator.csproj.AssemblyReference.cache
+C:\Users\mund_\source\repos\BradyEnergyEvaluator\BradyEnergyEvaluator\obj\Debug\BradyEnergyEvaluator.csproj.CoreCompileInputs.cache
+C:\Users\mund_\source\repos\BradyEnergyEvaluator\BradyEnergyEvaluator\obj\Debug\BradyEnergyEvaluator.exe
+C:\Users\mund_\source\repos\BradyEnergyEvaluator\BradyEnergyEvaluator\obj\Debug\BradyEnergyEvaluator.pdb
+C:\Users\mund_\source\repos\BradyEnergyEvaluator\BradyEnergyEvaluator\bin\Debug\MoreLinq.dll
+C:\Users\mund_\source\repos\BradyEnergyEvaluator\BradyEnergyEvaluator\bin\Debug\System.ValueTuple.dll
+C:\Users\mund_\source\repos\BradyEnergyEvaluator\BradyEnergyEvaluator\bin\Debug\MoreLinq.pdb
+C:\Users\mund_\source\repos\BradyEnergyEvaluator\BradyEnergyEvaluator\bin\Debug\MoreLinq.xml
+C:\Users\mund_\source\repos\BradyEnergyEvaluator\BradyEnergyEvaluator\bin\Debug\System.ValueTuple.xml
+C:\Users\mund_\source\repos\BradyEnergyEvaluator\BradyEnergyEvaluator\obj\Debug\BradyEnergyEvaluator.csproj.CopyComplete
